@@ -8,4 +8,5 @@
     <AppBlogs />
     <AppContactMe />
   </div>
+  <AppSocials />
 </template>
